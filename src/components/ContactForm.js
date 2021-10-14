@@ -161,7 +161,7 @@ export default function ContactForm() {
                               
                               Submit
                           
-                              <i class="fa fa-long-arrow-right" aria-hidden="true"><Icon.ArrowRight/></i>
+                              <i className="fa fa-long-arrow-right" aria-hidden="true"><Icon.ArrowRight/></i>
 
                           </strong>
                           
