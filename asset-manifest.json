@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-firebase-contact-form/static/css/main.9dac5904.chunk.css",
+    "main.js": "/react-firebase-contact-form/static/js/main.0ab1ff96.chunk.js",
+    "main.js.map": "/react-firebase-contact-form/static/js/main.0ab1ff96.chunk.js.map",
+    "runtime-main.js": "/react-firebase-contact-form/static/js/runtime-main.fbdaa556.js",
+    "runtime-main.js.map": "/react-firebase-contact-form/static/js/runtime-main.fbdaa556.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/react-firebase-contact-form/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.c86dd38c.chunk.js": "/react-firebase-contact-form/static/js/2.c86dd38c.chunk.js",
+    "static/js/2.c86dd38c.chunk.js.map": "/react-firebase-contact-form/static/js/2.c86dd38c.chunk.js.map",
+    "index.html": "/react-firebase-contact-form/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/react-firebase-contact-form/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.9dac5904.chunk.css.map": "/react-firebase-contact-form/static/css/main.9dac5904.chunk.css.map",
+    "static/js/2.c86dd38c.chunk.js.LICENSE.txt": "/react-firebase-contact-form/static/js/2.c86dd38c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbdaa556.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.c86dd38c.chunk.js",
+    "static/css/main.9dac5904.chunk.css",
+    "static/js/main.0ab1ff96.chunk.js"
+  ]
+}
